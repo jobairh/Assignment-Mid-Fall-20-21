@@ -1,0 +1,7 @@
+H:\OOP2 Fall 20-21\code practice\Th7\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe.config
+H:\OOP2 Fall 20-21\code practice\Th7\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe
+H:\OOP2 Fall 20-21\code practice\Th7\University_Management_System\University_Management_System\bin\Debug\University_Management_System.pdb
+H:\OOP2 Fall 20-21\code practice\Th7\University_Management_System\University_Management_System\obj\Debug\University_Management_System.csprojAssemblyReference.cache
+H:\OOP2 Fall 20-21\code practice\Th7\University_Management_System\University_Management_System\obj\Debug\University_Management_System.csproj.CoreCompileInputs.cache
+H:\OOP2 Fall 20-21\code practice\Th7\University_Management_System\University_Management_System\obj\Debug\University_Management_System.exe
+H:\OOP2 Fall 20-21\code practice\Th7\University_Management_System\University_Management_System\obj\Debug\University_Management_System.pdb
